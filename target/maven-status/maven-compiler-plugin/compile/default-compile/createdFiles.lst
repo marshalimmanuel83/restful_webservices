@@ -1,0 +1,12 @@
+com/marshal/rest/webservices/controller/HelloWorldController.class
+com/marshal/rest/webservices/RestfulWebservicesApplication.class
+com/marshal/rest/webservices/model/HelloWorldBean.class
+com/marshal/rest/webservices/exception/CustomisedResponseEntityExceptionHandler.class
+com/marshal/rest/webservices/controller/PostController.class
+com/marshal/rest/webservices/controller/UserNotFoundException.class
+com/marshal/rest/webservices/model/User.class
+com/marshal/rest/webservices/service/UserDAOService.class
+com/marshal/rest/webservices/exception/ExceptionResponse.class
+com/marshal/rest/webservices/controller/UserController.class
+com/marshal/rest/webservices/model/Post.class
+com/marshal/rest/webservices/service/PostDAOService.class
